@@ -77,10 +77,9 @@ main.py                  # Model Training
 
 ---
 
-## 📎 License
+## License
 
 MIT License
 
 ---
 
-Let me know if you'd like to include example output or training curves, or if you want this auto-generated into a downloadable file.
