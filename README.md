@@ -59,7 +59,7 @@ jupyter notebook llmsasrec.ipynb
 ```
 llmsasrec.ipynb          # Main implementation notebook
 data/                    # Processed dataset files
-SASRec/                  # SASRec modules
+SASRec/                  # LLMSASRec modules
 utils.py                 # Helper functions (e.g., metrics, data loaders)
 model.py                 # LLMSASRec model definition
 main.py                  # Model Training
